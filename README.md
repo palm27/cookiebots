@@ -1,0 +1,2 @@
+# cookiebots
+class project
